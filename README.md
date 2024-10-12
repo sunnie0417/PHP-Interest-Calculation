@@ -1,6 +1,6 @@
 # PHP-Interest-Calculation
 
-This application turns the single page application you developed in lab 3 into a 6-page application consisting of 5 pages; Index.php, Disclaimer.php, CustomerInfo.php, ContactTime.php, DepositCalculator.php and Complete.php. Each page will validate the data entered by the user, and only after passing the validation can they proceed to the next page. In the end, the interest will be calculated.
+This application consists of a 6-page workflow with the following pages: Index.php, Disclaimer.php, CustomerInfo.php, ContactTime.php, DepositCalculator.php, and Complete.php. Each page validates the data entered by the user, and only after passing the validation can they proceed to the next page. In the final step, the interest is calculated.
 
 ![Screenshot 2024-10-12 000345](https://github.com/user-attachments/assets/53a8d6c1-ca9d-4d22-8a77-db9bb868eb2e)
 
